@@ -5,3 +5,4 @@ var name = "winston"
 var endAge = 65
 var alive = true
 var alive = false
+var sentance = `${name} is my name`
